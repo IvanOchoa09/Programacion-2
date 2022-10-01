@@ -1,2 +1,2 @@
 # Programacion-2
-Parcial practico
+Proyecto Aula
